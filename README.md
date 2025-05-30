@@ -24,3 +24,8 @@
 git clone https://github.com/MORES537/GreenHash.git
 cd GreenHash
 chmod +x start-node.sh
+## GreenHash DApp
+
+A React-based decentralized application (DApp) to connect to the GreenHash blockchain network, allowing users to connect their wallets and interact with the blockchain.
+
+The DApp source code is in the [greenhash-dapp](https://github.com/MORES537/greenhash-dapp) repository.
